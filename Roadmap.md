@@ -28,7 +28,7 @@ Goals of this phase are:
 
    - define and clarify fundamental problem / solution sets from a “first principles” perspective (https://mayooshin.com/first-principles-thinking).
 
-   - prepare the Mythic Systems website (http://mythicsystems.com) as a portal hub to conduct real-world value experiments, and host project initiatives. 
+   - prepare the Mythic Systems brand and website (http://mythicsystems.com) as a portal hub to conduct real-world value experiments, and host project initiatives. 
 
 
 2 - Outline a “Mythic Systems Lab” list of ideas and protocols for experiments to conduct based on problem / solutions sets.
