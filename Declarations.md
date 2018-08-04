@@ -9,4 +9,10 @@ This document declares the Mythic Systems vision, mission, philosophy, and code 
 
 ## Philosophy
 
+1 - **NATURAL LAW**: 
+
+*“quote” ~ anon*
+
+...
+
 ## Code of Ethics
