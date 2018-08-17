@@ -5,9 +5,11 @@ This document declares the Mythic Systems vision, mission, philosophy, and code 
 
 ## Vision
 
-Be a widely recognized catalyst of extraordinary collective inspiration and positive transformation.
+Be a widely recognized phenomena of collective inspiration.
 
 ## Mission
+
+Catalyze positive change in people’s lives and our world with extraordinary experiences of enchantment, adventure, and celebration.  
 
 ## Philosophy (draft)
 
