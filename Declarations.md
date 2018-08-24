@@ -5,7 +5,7 @@ This document declares the Mythic Systems vision, mission, philosophy, and code 
 
 ## Vision
 
-Being a widely recognized phenomena of collective inspiration.
+Being a widely impactful phenomena of social evolution.
 
 ## Mission
 
