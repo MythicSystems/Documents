@@ -24,5 +24,7 @@ See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epis
 
 *“quote” ~ anon*
 
+"Integrity is the essence of everything successful." -R. Buckminster Fuller
+
 
 ## Code of Ethics
