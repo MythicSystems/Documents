@@ -1,4 +1,4 @@
-### Mythic Systems Manifesto (draft)
+# Mythic Systems Manifesto (draft)
 
 ...
 
