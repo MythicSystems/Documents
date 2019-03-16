@@ -40,7 +40,7 @@ Goals of this phase are:
 ---
 
 ## Phase 2: DEVELOPMENT & IMPLEMENTATION
-### TBD, 2018 
+### TBD, 2019
 
 The primary aim of this phase is to develop ideas and successful experiments into functional and robust applications that scale, delivering systemic solutions into the real world.
 
