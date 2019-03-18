@@ -19,4 +19,7 @@ The problems leading to global crises today—ecological, sociological, and econ
 
 We most need a whole and healthy understanding of our collective story (history), a clear, coherent, and cohesive vision of where we are going, and who we are becoming as a collective.  The opportunity now is to engender collective intelligence, and to collectively co-create something like a new mythos.
 
+See more about Mythic System's philosophy in the manifesto:
+https://github.com/MythicSystems/Documents/blob/master/Manifesto.md
+
 ## Code of Ethics
