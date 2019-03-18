@@ -13,20 +13,10 @@ Being a widely impactful phenomena of social evolution.
 
 Helping humanity discover, embody, and fulfill their purpose.   
 
-## Philosophy (draft)
+## Philosophy
 
-1 - **CONSCIOUS EVOLUTION**: 
+The problems leading to global crises today—ecological, sociological, and economic—are rooted in a more fundamental psychological crisis of meaning and perspective.  
 
-*“In the midst of chaos, there is also opportunity” ~ Sun-Tzu*
-
-As our world moves thru potent changes, we can recognize that we have a choice in how we participate in navigating and guiding transformation.  We have free will, and can consciously choose how we evolve (or devolve).  By taking responsibility for where we are and look to where we want to go, we are less likely to arrive somewhere we don’t want to be, and much more likely to arrive to exactly where we do want to be.
-See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epistemology. 
-
-2 - **NATURAL LAW**: 
-
-*“quote” ~ anon*
-
-"Integrity is the essence of everything successful." -R. Buckminster Fuller
-
+We most need a whole and healthy understanding of our collective story (history), a clear, coherent, and cohesive vision of where we are going, and who we are becoming as a collective.  The opportunity now is to engender collective intelligence, and to collectively co-create something like a new mythos.
 
 ## Code of Ethics
