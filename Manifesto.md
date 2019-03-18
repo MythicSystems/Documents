@@ -177,3 +177,6 @@ PRAXIS
 10 - NATURAL LAW:
 
 “quote” ~ anon
+
+"Integrity is the essence of everything successful." -R. Buckminster Fuller
+
