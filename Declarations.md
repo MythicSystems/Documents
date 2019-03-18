@@ -11,7 +11,7 @@ Being a widely impactful phenomena of social evolution.
 
 ## Mission
 
-Catalyzing positive change in people’s lives and our world with extraordinary experiences of enchantment, adventure, and celebration.  
+Helping humanity discover, embody, and fulfill their purpose.   
 
 ## Philosophy (draft)
 
