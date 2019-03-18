@@ -174,7 +174,7 @@ ACTUM
 PRAXIS
 "praxis is the process by which a theory, lesson, or skill is enacted, embodied, or realized."
 
-10 - NATURAL LAW:
+10 - **NATURAL LAW**:
 
 “quote” ~ anon
 
