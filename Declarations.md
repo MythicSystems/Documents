@@ -2,6 +2,8 @@
 
 This document declares the Mythic Systems vision, mission, philosophy, and code of ethics. 
 
+## About
+Mythic Systems is a transdisciplinary education organization producing evolutionary transmedia experiences to actualize human potential for transformation.
 
 ## Vision
 
