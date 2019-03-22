@@ -186,3 +186,8 @@ PRAXIS
 
 12 - **HOLONOMICS**:
 
+## - **INTEGRATED INFORMATION THEORY**
+http://integratedinformationtheory.org
+
+
+
