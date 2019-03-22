@@ -170,24 +170,21 @@ And made Hell grant what Love did seek.”
 [ graphic ]
 
 ACTUM
-"What’s missing isn’t the ideas… it’s the will to execute them." ~ Seth Godin
+"What’s missing isn’t the ideas ... it’s the will to execute them." ~ Seth Godin
 
 PRAXIS
 "praxis is the process by which a theory, lesson, or skill is enacted, embodied, or realized."
 
-10 - **NATURAL LAW**:
-
-“quote” ~ anon
-
-"Integrity is the essence of everything successful." -R. Buckminster Fuller
-
+10 - **NATURAL LAW / COMMON LAW**:
 
 11 - **COMPLEXITY SCIENCE**:
 
 12 - **HOLONOMICS**:
 
-## - **INTEGRATED INFORMATION THEORY**
+13 - **INTEGRATED INFORMATION THEORY**
 http://integratedinformationtheory.org
+
+"Integrity is the essence of everything successful." - R. Buckminster Fuller
 
 
 
