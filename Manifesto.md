@@ -20,6 +20,10 @@ See Participatory Epistemology: http://wiki.p2pfoundation.net/Participatory_Epis
 
 "I believe that sovereignty is the twin sister of democracy. If there's no sovereignty, there's no democracy." ~ Marine Le Pen
 
+"When we fall in love with a vocation, I call it vocational arousal. It’s a supra-sexual desire to fully express our genius, not to reproduce the species now but to evolve the species. Because the species does not need more and more babies. It needs more and more evolved humans." ~ Barbara Marx Hubbard
+
+"her purpose in life: to be a beacon of hope, to communicate to humanity the story of our evolution and potential." (BMH)
+
 Sovereign (legal). We are our own rulers.  We have the right, privilege, and responsibility to govern and ‘parent’ ourselves.  
 
 Global collective transformation begins at the level of individual transformation.  Like a cell within a body, many healthy cells equate to a healthy whole.  Individuals who are becoming stable and centered in their own sufficiency and purpose establish an optimal basis for synergistic collaboration with each other, thus realzing a thriving, intelligent, interdependent collective together.    
