@@ -76,7 +76,7 @@ Today we face global problems of such great scale and complexity that are unprec
 Individual transformation combined with organizing many individuals to collaborate at scale = Collective Intelligence.  We need a high order of collective intelligence to solve the very large and complex problems we face (which are normal given the stage of our evolutionary progress).  Empathy / empathic civilization, etc. Neo-democracy.  Economics as a measure of CI.  HI + AI = CI (“Radical Collective Intelligence”). This change is a natural part of an evolving species becoming a super-orgamism.  
 
 
-6 - **EVOLUTIONARY EXPERIENCE DESIGN**:
+6 - **EVOLUTIONARY EXPERIENCE DESIGN (EXD)**:
 
 "You’ve got to start with the customer experience and work backwards to the technology." ~ Steve Jobs
 
@@ -104,7 +104,8 @@ Enchantment as necessary toward action (enchantment over emergency for necessity
 “The funny thing about games and fictions is that they have a weird way of bleeding into reality. Whatever else it is, the world that humans experience is animated with narratives, rituals, and roles that organize psychological experience, social relations, and our imaginative grasp of the material cosmos. The world, then, is in many ways a webwork of fictions, or, better yet, of stories. The contemporary urge to “gamify” our social and technological interactions is, in this sense, simply an extension of the existing games of subculture, of folklore, even of belief. This is the secret truth of the history of religions: not that religions are “nothing more” than fictions, crafted out of sociobiological need or wielded by evil priests to control ignorant populations, but that human reality possesses an inherently fictional or fantastic dimension whose “game engine” can — and will — be organized along variously visionary, banal, and sinister lines. Part of our obsession with counterfactual genres like sci-fi or fantasy is not that they offer escape from reality — most of these genres are glum or dystopian a lot of the time anyway — but because, in reflecting the “as if” character of the world, they are actually realer than they appear.” ~ Erik Davis, TechGnosis: Myth, Magic Mysticism in the Age of Information
 
 
-8 - Balance of Decentralization and Centralization
+8 - **Balance of Decentralization and Centralization**
+--> include in Complexity Science / Theory ?
 
 "When decentralized blockchain protocols start displacing the centralized web services that dominate the current Internet, we'll start to see real internet-based sovereignty. The future Internet will be decentralized." ~ Olaf Carlson-Wee
 
@@ -177,7 +178,7 @@ PRAXIS
 
 10 - **NATURAL LAW / COMMON LAW**:
 
-11 - **COMPLEXITY SCIENCE**:
+11 - **COMPLEXITY THEORY / SCIENCE**:
 
 12 - **HOLONOMICS**:
 
