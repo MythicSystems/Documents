@@ -184,6 +184,8 @@ PRAXIS
 
 11 - **COMPLEXITY THEORY / SCIENCE**:
 
+"Complexity theory is becoming a science that recognizes and celebrates the creativity of nature. Now that’s pretty extraordinary, because it opens the door to a new way of seeing the world, recognizing that these complex dynamic systems are sensitive to initial conditions and have emergent properties. We have to learn to walk carefully in relation to these complex systems on which the quality of our lives depends, from microbial ecosystems to the biosphere, because we influence them although we cannot control them. This knowledge is new to our western scientific mentality ..." (Goodwin et al., 2001, p.27).
+
 12 - **HOLONOMICS**:
 
 13 - **INTEGRATED INFORMATION THEORY**
