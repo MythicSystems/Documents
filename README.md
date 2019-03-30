@@ -12,6 +12,6 @@ This meta document outlines the fundamental documents being created for planning
 
 2 - [*Mythic Systems Roadmap*](Roadmap.md)
 
-3 - *Mythic Systems Manifesto*
+3 - [*Mythic Systems Manifesto*](Manifesto.md)
 
 4 - *Mythic Systems Business Plan*
