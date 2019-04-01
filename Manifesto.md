@@ -193,5 +193,6 @@ http://integratedinformationtheory.org
 
 "Integrity is the essence of everything successful." - R. Buckminster Fuller
 
+14 - Hundrenth Monkey syndrome (other term? 100th monk)
 
 
